@@ -117,6 +117,7 @@
     <Compile Include="Models\CreatedSlotItem.cs" />
     <Compile Include="Models\FleetCondition.cs" />
     <Compile Include="Models\Raw\kcsapi_mst_mapcell.cs" />
+    <Compile Include="Models\Raw\kcsapi_require_info.cs" />
     <Compile Include="Models\Raw\kcsapi_ship_deck.cs" />
     <Compile Include="Models\Raw\kcsapi_mst_maparea.cs" />
     <Compile Include="Models\Raw\kcsapi_mst_mapinfo.cs" />
@@ -135,6 +136,7 @@
     <Compile Include="Models\Raw\kcsapi_powerup.cs" />
     <Compile Include="Models\Raw\kcsapi_remodel_slotlist.cs" />
     <Compile Include="Models\Raw\kcsapi_remodel_slotlist_detail.cs" />
+    <Compile Include="Models\Raw\kcsapi_slot_deprive.cs" />
     <Compile Include="Models\Raw\kcsapi_slot_exchange_index.cs" />
     <Compile Include="Models\ShipSituation.cs" />
     <Compile Include="Models\ShipSlot.cs" />
